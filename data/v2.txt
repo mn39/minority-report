@@ -1,0 +1,3 @@
+gesture = {
+    0:'click', 1:'pre-scrolldown', 2:'after-scrolldown', 3:'rock',4:'other', 5:'pre-scrollup', 6:'after-scrollup'
+}
